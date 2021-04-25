@@ -1,0 +1,77 @@
+[
+    {
+        
+        "No_Transactions": 3,
+        "No_Orders": 4, 
+        "No_Payments": 3, 
+        "paymentMethodRegistrationFailure": 0,
+        "transactionAmount": 1000,
+        "transactionFailed": 0,
+        "native_ip": 0,
+        "native_device": 1,
+        "last_time_purchase": 100,
+        "black_list": 1
+        
+    },
+    {
+        "No_Transactions": 3,
+        "No_Orders": 4, 
+        "No_Payments": 3, 
+        "paymentMethodRegistrationFailure": 0,
+        "transactionAmount": 10,
+        "transactionFailed": 0,
+        "native_ip": 1,
+        "native_device": 0,
+        "last_time_purchase": 100,
+        "black_list": 1
+    },
+    {
+        "No_Transactions": 3,
+        "No_Orders": 4, 
+        "No_Payments": 3, 
+        "paymentMethodRegistrationFailure": 0,
+        "transactionAmount": 10,
+        "transactionFailed": 0,
+        "native_ip": 1,
+        "native_device": 1,
+        "last_time_purchase": 100,
+        "black_list": 1
+    },
+    {
+        "No_Transactions": 3,
+        "No_Orders": 4, 
+        "No_Payments": 3, 
+        "paymentMethodRegistrationFailure": 0,
+        "transactionAmount": 1000,
+        "transactionFailed": 1,
+        "native_ip": 1,
+        "native_device": 1,
+        "last_time_purchase": 100,
+        "black_list": 1
+    },
+    {
+        "No_Transactions": 3,
+        "No_Orders": 4, 
+        "No_Payments": 3, 
+        "paymentMethodRegistrationFailure": 0,
+        "transactionAmount": 1000,
+        "transactionFailed": 0,
+        "native_ip": 1,
+        "native_device": 1,
+        "last_time_purchase": 100,
+        "black_list": 0
+    }, 
+    {
+        "No_Transactions": 3,
+        "No_Orders": 4, 
+        "No_Payments": 3, 
+        "paymentMethodRegistrationFailure": 0,
+        "transactionAmount": 1000,
+        "transactionFailed": 0,
+        "native_ip": 0,
+        "native_device": 0,
+        "last_time_purchase": 400,
+        "black_list": 0
+    }
+
+]
